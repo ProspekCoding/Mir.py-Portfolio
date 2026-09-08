@@ -1,0 +1,14 @@
+{
+  "name": "mir-py",
+  "version": "1.0.0",
+  "description": "Shahmir Baloch portfolio with MIR AI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0"
+  }
+}
